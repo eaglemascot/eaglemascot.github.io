@@ -1,0 +1,297 @@
+.projects {
+    position: relative;
+    line-height: 100%;
+    font-weight: 600;
+    cursor: pointer;
+}
+.grid1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.grid {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+}
+.contact {
+    position: relative;
+    line-height: 100%;
+    font-weight: 600;
+}
+.line {
+    align-self: stretch;
+    position: relative;
+    background-color: #0e1011;
+    height: 2px;
+    width: 100%;
+}
+.button-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2px;
+    cursor: pointer;
+}
+.header-small {
+    width: 900px;
+    margin: 0 !important;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    justify-content: space-between;
+    padding: 64px 96px 0px;
+    box-sizing: border-box;
+    z-index: 2;
+    font-family: Fira Sans;
+}
+.screenshot-2024-10-28-at-656 {
+    background-color: white;
+    position: relative;
+    height: 900px;
+    width: 669px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.ecem {
+    margin: 0;
+}
+.ecem-yildirim {
+    width: 500px;
+    position: relative;
+    line-height: 100%;
+    text-transform: uppercase;
+    display: inline-block;
+    height: 600px;
+    flex-shrink: 0;
+    font-size: 180px;
+}
+.sophomore-at-georgetown {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.5px;
+    line-height: 130%;
+    font-weight: 600;
+}
+.grid4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: -201px;
+    font-size: 40px;
+    font-family: Fira Sans;
+}
+.grid3 {
+    width: 800px;
+    height: 824px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 150px 20px 20px 96px;
+    box-sizing: border-box;
+}
+.hard-working {
+    align-self: stretch;
+    position: relative;
+    line-height: 110%;
+    text-transform: uppercase;
+}
+.certainly-heres-a-container {
+    width: 700px;
+    position: relative;
+    font-size: 22px;
+    line-height: 170%;
+    font-family: Fira Sans;
+    color: rgba(14, 16, 17, 0.6);
+    display: inline-block;
+    margin: -10px 50px 0 0;
+}
+.grid6 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.grid5 {
+    width: 1033px;
+    height: 542px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 100px;
+    box-sizing: border-box;
+    font-size: 64px;
+}
+.grid2 {
+    align-self: stretch;
+    width: 1247px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.section-hero {
+    align-self: stretch;
+    height: 1424px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    z-index: 1;
+    font-size: 220px;
+}
+.image-wrapper-icon {
+    width: 600px;
+    position: relative;
+    height: 1424px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.ecem-yildirim1 {
+    flex: 1;
+    position: relative;
+    line-height: 100%;
+    text-transform: uppercase;
+}
+.grid7 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.pages {
+    align-self: stretch;
+    position: relative;
+    line-height: 100%;
+    font-weight: 500;
+}
+.nav {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 26px;
+    color: #fff;
+    font-family: Fira Sans;
+}
+.grid10 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.instagram {
+    align-self: stretch;
+    position: relative;
+    line-height: 130%;
+    font-weight: 600;
+}
+.grid11 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.grid9 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 96px;
+}
+.line1 {
+    align-self: stretch;
+    position: relative;
+    background-color: #fff;
+    height: 2px;
+}
+.button-text1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2px;
+}
+.grid12 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    font-size: 22px;
+    color: #fff;
+    font-family: Fira Sans;
+}
+.grid8 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 96px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: Fira Sans;
+}
+.footer {
+    align-self: stretch;
+    background-color: #43385c;
+    height: 824px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 96px 96px 64px;
+    box-sizing: border-box;
+    z-index: 0;
+    font-size: 180px;
+    color: #fff;
+    width: 100%;
+}
+.home {
+    width: 100%;
+    position: relative;
+    background-color: #d6d5d5;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 22px;
+    color: #0e1011;
+    font-family: Fira Sans;
+}
+body {
+    margin: 0;
+    line-height: normal;
+}
